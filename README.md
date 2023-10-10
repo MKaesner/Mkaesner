@@ -4,13 +4,13 @@
 
 <h3>Atuando como facilitador, para que as pessoas e empresas superem desafios e atinjam objetivos, atrav&eacute;s dos recursos de TI, promovendo um modelo de gest&atilde;o orientado a dados.</h3>
 
-<h2>Atualmente focado em:</h2>
+<h3>Atualmente focado em:</h3>
 
-<h2>Liguagem Python</h2>
-<h2>Linguagem SQL</h2>
-<h2>Microsoft Power BI</h2>
-<h2>Microsoft Excel</h2>
-<h2>Estatística</h2>
+<h3>Liguagem Python</h3>
+<h3>Linguagem SQL</h3>
+<h3>Microsoft Power BI</h3>
+<h3>Microsoft Excel</h3>
+<h3>Estatística</h3>
 
 
 
